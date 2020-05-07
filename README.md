@@ -1,5 +1,5 @@
 
-* Création du projet gossip:
+Création du projet gossip:
 
 La page d'accueil,
 La page de la team,
@@ -13,7 +13,7 @@ User login & regiter,
 Creation & modification de gossip
 ...
 
-* Installation:
+Installation:
 
 -> download and unzip: the_gossip_project.zip
 -> bundle install
